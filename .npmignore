@@ -1,0 +1,16 @@
+# Exclude dev/test files
+src/**/*.test.ts
+tests
+coverage
+jest.config.js
+tsconfig.json
+
+# Exclude configs
+.gitignore
+npm-debug.log
+yarn-error.log
+
+# Exclude Git & IDE stuff
+.vscode
+.idea
+.DS_Store

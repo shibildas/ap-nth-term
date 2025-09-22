@@ -1,0 +1,21 @@
+# Node
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Build output
+dist
+*.tsbuildinfo
+
+# Logs
+logs
+*.log
+
+# Env
+.env
+.env.*
+
+# IDE / Editor
+.vscode
+.idea
+.DS_Store

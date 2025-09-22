@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    // File Layout
+    "rootDir": "./src",
+    "outDir": "./dist",
+
+    // Module System
+    "module": "commonjs",
+    "target": "es2019",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+
+    // Type Declarations
+    "declaration": true,
+    "declarationMap": true,
+    "sourceMap": true,
+
+    // Strictness
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+    "skipLibCheck": true,
+
+    // Other
+    "isolatedModules": true
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "tests", "dist"]
+}
