@@ -1,6 +1,6 @@
 {
   "name": "ap-nth-term",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Find nth term of arithmetic progression from given array",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
